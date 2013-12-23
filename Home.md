@@ -1,42 +1,38 @@
-# Welcome
+R6RS/R7RS Scheme system.
 
-Welcome to your wiki! This is the default page we've installed for your convenience. Go ahead and edit it.
+## Features
 
-## Wiki features
+- Builtin CLOS
+- Common Lisp like reader macro
+- Cryptographic libraries
+- CL like keyword lambda syntax
+- Builtin regular expression
+  - Mostly works O(n)
+- Replaceable reader
 
-This wiki uses the [Markdown](http://daringfireball.net/projects/markdown/) syntax.
+## Build tips
+If you are using Ubuntu 11.10 (which I tested from scratch), you need to install these packages.
 
-The wiki itself is actually a mercurial repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately.
+`cmake`, `libgc-dev`, `zlib1g-dev` and `libffi-dev`.
 
-Go ahead and try:
+`cmake` must be installed the other can be installed during building, however it is not managed by package manager so it might cause problems.
 
-```
-$ hg clone https://ktakashi@bitbucket.org/ktakashi/sagittarius-scheme/wiki
-```
+On Debian Linux, default `cmake` version is 2.8.2 and Sagittarius requires 2.8.4 so it might complain. If you got the problem, please change the version number to 2.8.2 in the `CMakeLists.txt`.
 
-Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
-
-## Syntax highlighting
-
-
-You can also highlight snippets of text (we use the excellent [Pygments][] library).
-
-[Pygments]: http://www.pygments.org/
-
-
-Here's an example of some Python code:
+### For QNX environment
+QNX environment has been supported (only x86 has been tested). To build Sagittarius on it, you need to use CMake tool chain like this;
 
 ```
-#!python
-
-def wiki_rocks(text):
-    formatter = lambda t: "funky"+t
-    return formatter(text)
+#!shell
+cmake -DCMAKE_TOOLCHAIN_FILE=cmake/Toolchain-QNX-8.0.0.cmake .
 ```
 
-
-You can check out the source of this page to see how that's done, and make sure to bookmark [the vast library of Pygment lexers][lexers], we accept the 'short name' or the 'mimetype' of anything in there.
-[lexers]: http://pygments.org/docs/lexers/
+Then patch Boehm GC with following command before build;
 
 
-Have fun!
+```
+#!shell
+patch -p < cmake/patches/gc.qnx.patch
+```
+
+If you are building with out of tree, then adjust above commands.
