@@ -1,5 +1,7 @@
 R6RS/R7RS Scheme system.
 
+![Build Status](https://drone.io/bitbucket.org/ktakashi/sagittarius-scheme/status.png)
+
 ## Features
 
 - Builtin CLOS
