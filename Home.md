@@ -42,4 +42,6 @@ patch -p < cmake/patches/gc.qnx.patch
 
 If you are building with out of tree, then adjust above commands.
 
+## Misc
 
+[External Links](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/External%20Links)
