@@ -20,5 +20,8 @@ Improvements;
 - `quasiquote` now generates constant value if possible.
 - Compile time procedure folding.
 
+New platform;
+
+- OpenBSD has been supported
 
 [Download](https://bitbucket.org/ktakashi/sagittarius-scheme/downloads)
