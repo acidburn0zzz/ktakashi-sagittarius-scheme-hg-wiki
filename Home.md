@@ -3,6 +3,7 @@ R6RS/R7RS Scheme system.
 ![Build Status](https://drone.io/bitbucket.org/ktakashi/sagittarius-scheme/status.png)
 
 ## NEWS
+- Sagittarius Scheme 0.5.5 has been released (Jun 20th, 2014) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.5.5)
 - Sagittarius Scheme 0.5.4 has been released (May 16th, 2014) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.5.4)
 - Sagittarius Scheme 0.5.3 has been released (Apr 17th, 2014) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.5.3)
 - Sagittarius Scheme 0.5.2 has been released (Mar 14th, 2014) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.5.2)
