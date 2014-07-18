@@ -21,6 +21,11 @@ R6RS/R7RS Scheme system.
   - Mostly works O(n)
 - Replaceable reader
 
+## Document
+
+[Sagittarius Users' Reference](http://ktakashi.github.io/sagittarius-online-ref.html)
+[Sagittarius Users' Reference(One file)](http://ktakashi.github.io/sagittarius-ref.html)
+
 ## Build tips
 If you are using Ubuntu 11.10 (which I tested from scratch), you need to install these packages.
 
