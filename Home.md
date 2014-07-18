@@ -24,6 +24,7 @@ R6RS/R7RS Scheme system.
 ## Document
 
 [Sagittarius Users' Reference](http://ktakashi.github.io/sagittarius-online-ref.html)
+
 [Sagittarius Users' Reference(One file)](http://ktakashi.github.io/sagittarius-ref.html)
 
 ## Build tips
