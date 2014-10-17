@@ -11,12 +11,14 @@ Fixed bugs:
 - Library `(sagittarius)` was loaded with `-t` option. #74
 
 Improvements: 
+
 - `:allow-other-keys` now keeps argument order. #68
 - `(scheme r5rs)` now exports all auxiliary syntaxes, `=>`, `else`, `unquote`, `unquote-splicing` and `syntax-rules`. #73
 - Socket input/output port is now bidirectional.
 - Sagittarius now can be build on Microsoft Visual C++ Compiler for Python 2.7.
 
 New features:
+
 - MQTT client library `(net mq mqtt)` has been added.
 - AMQP client library `(net mq amqp)` has been added.
 - Concurrency library `(util concurrent)` has been added. (not documented yet)
