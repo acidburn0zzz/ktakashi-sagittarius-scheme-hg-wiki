@@ -60,3 +60,7 @@ If you are building with out of tree, then adjust above commands.
 ## Misc
 
 [External Links](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/External%20Links)
+
+## Memos (for developers)
+
+[Release process](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20process)
