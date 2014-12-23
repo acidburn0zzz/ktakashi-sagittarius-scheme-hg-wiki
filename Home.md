@@ -57,6 +57,27 @@ patch -p < cmake/patches/gc.qnx.patch
 
 If you are building with out of tree, then adjust above commands.
 
+## Building from repository
+
+You may want to build the developing version of Sagittarius retrieved from the developing repository. It requires the latest release version of Sagittarius. Following steps describe how to do it:
+
+1. Download the latest Sagittarius from download page and install it (if you already have installed the latest version this is not required).
+2. Clone the repository.
+3. Run `./dist.sh gen` in the cloned source directory.
+4. Execute CMake described above section.
+
+If you don't do this steps, you will get an error during CMake process something like the following:
+
+```
+CMake Error at src/CMakeLists.txt:102 (ADD_LIBRARY):
+  Cannot find source file:
+
+    regex_stub.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+```
+
 ## Misc
 
 [External Links](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/External%20Links)
