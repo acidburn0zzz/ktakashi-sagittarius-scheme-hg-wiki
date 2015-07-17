@@ -10,6 +10,7 @@ Improvements:
 - make-simple-server now don't open sockets until it's started. #135
 - `(rfc ftp)` now uses passive mode as its default mode.
 - `(rfc ftp)` now uses server's peer IP address instead of 'localhost'.
+- Nested stack traces are shown.
 
 New libraries:
 
