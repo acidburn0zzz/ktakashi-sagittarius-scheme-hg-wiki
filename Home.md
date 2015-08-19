@@ -23,7 +23,7 @@ R6RS/R7RS Scheme system.
 - Cryptographic libraries
 - CL like keyword lambda syntax
 - Builtin regular expression
-  - Mostly works O(n)
+    - Mostly works O(n)
 - Replaceable reader
 
 ## Document
