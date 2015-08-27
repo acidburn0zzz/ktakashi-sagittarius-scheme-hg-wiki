@@ -82,8 +82,8 @@ CMake Error at src/CMakeLists.txt:102 (ADD_LIBRARY):
 
 ## Misc
 
-[External Links](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/External%20Links)
-[ML for CI](https://groups.google.com/forum/#!forum/sagittarius-ci)
+- [External Links](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/External%20Links)
+- [ML for CI](https://groups.google.com/forum/#!forum/sagittarius-ci)
 
 ## Memos (for developers)
 
