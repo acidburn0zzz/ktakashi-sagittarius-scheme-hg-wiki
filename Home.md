@@ -4,7 +4,6 @@ R6RS/R7RS Scheme system.
 [![Build status](https://ci.appveyor.com/api/projects/status/8axfxf8dvr8pdtjk/branch/default?svg=true)](https://ci.appveyor.com/project/ktakashi/sagittarius-scheme/branch/default)
 [![Build Status](https://travis-ci.org/ktakashi/sagittarius-scheme.svg?branch=master)](https://travis-ci.org/ktakashi/sagittarius-scheme)
 
-
 ## NEWS
 
 - Sagittarius Scheme 0.7.0 has been released (Jan 22th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.0)
@@ -20,6 +19,16 @@ R6RS/R7RS Scheme system.
 - Builtin regular expression
     - Mostly works O(n)
 - Replaceable reader
+
+## Supporting OS
+
+- Windows
+- Cygwin
+- Linux
+- Mac OS X
+- Free BSD
+
+To build Sagittarius from source archive, see [README.md](https://bitbucket.org/ktakashi/sagittarius-scheme/src)
 
 ## Document
 
