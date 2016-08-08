@@ -98,3 +98,4 @@ CMake Error at src/CMakeLists.txt:102 (ADD_LIBRARY):
 ## Memos (for developers)
 
 [Release process](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20process)
+[TODOs](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/TODOs)
