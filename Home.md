@@ -1,6 +1,5 @@
 R6RS/R7RS Scheme system.
 
-[![Build Status](https://drone.io/bitbucket.org/ktakashi/sagittarius-scheme/status.png)](https://drone.io/bitbucket.org/ktakashi/sagittarius-scheme/latest)
 [![Build status](https://ci.appveyor.com/api/projects/status/8axfxf8dvr8pdtjk/branch/default?svg=true)](https://ci.appveyor.com/project/ktakashi/sagittarius-scheme/branch/default)
 [![Build Status](https://travis-ci.org/ktakashi/sagittarius-scheme.svg?branch=master)](https://travis-ci.org/ktakashi/sagittarius-scheme)
 
