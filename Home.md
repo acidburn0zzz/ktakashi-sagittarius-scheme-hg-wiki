@@ -5,18 +5,7 @@ R6RS/R7RS Scheme system.
 
 ## NEWS
 
-- Sagittarius Scheme 0.7.11 has been released (Dec 24th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.11)
-- Sagittarius Scheme 0.7.10 has been released (Nov 18th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.10)
-- Sagittarius Scheme 0.7.9 has been released (Oct 21th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.9)
-- Sagittarius Scheme 0.7.8 has been released (Sep 23th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.8)
-- Sagittarius Scheme 0.7.7 has been released (Aug 19th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.7)
-- Sagittarius Scheme 0.7.6 has been released (Jul 22th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.6)
-- Sagittarius Scheme 0.7.5 has been released (Jun 24th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.5)
-- Sagittarius Scheme 0.7.4 has been released (May 27th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.4)
-- Sagittarius Scheme 0.7.3 has been released (Apr 22th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.3)
-- Sagittarius Scheme 0.7.2 has been released (Mar 18th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.2)
-- Sagittarius Scheme 0.7.1 has been released (Feb 19th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.1)
-- Sagittarius Scheme 0.7.0 has been released (Jan 22th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.0)
+- Sagittarius Scheme 0.8.0 has been released (Jan 21, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.0)
 
 [Old NEWS](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Old%20NEWS)
 
