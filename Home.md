@@ -11,6 +11,7 @@ R6RS/R7RS Scheme system.
 
 ## Features
 
+- R6RS/R7RS Scheme implementation
 - Builtin CLOS
 - Common Lisp like reader macro
 - Cryptographic libraries
@@ -18,6 +19,7 @@ R6RS/R7RS Scheme system.
 - Builtin regular expression
     - Mostly works O(n)
 - Replaceable reader
+- Supporting R7RS-large RedEdition
 
 ## Supporting OS
 
