@@ -5,6 +5,8 @@ R6RS/R7RS Scheme system.
 
 ## NEWS
 
+
+- Sagittarius Scheme 0.8.2 has been released (Mar 24, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.2)
 - Sagittarius Scheme 0.8.1 has been released (Feb 18, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.1)
 - Sagittarius Scheme 0.8.0 has been released (Jan 21, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.0)
 
