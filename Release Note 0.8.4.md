@@ -19,3 +19,4 @@ New features:
 - `http-debug-sender` and `:trace` keyword are introduced to `(rfc http)`
 - `http-multipart-sender` has been added to `(rfc http-connections)`
 - `oauth-signer-clone` and `oauth-verifier-clone` have been added to `(net oauth)`
+- Draft SRFI 143 has been added.
