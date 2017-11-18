@@ -2,7 +2,7 @@ R6RS/R7RS Scheme system.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/8axfxf8dvr8pdtjk/branch/default?svg=true)](https://ci.appveyor.com/project/ktakashi/sagittarius-scheme/branch/default)
 [![Build Status](https://travis-ci.org/ktakashi/sagittarius-scheme.svg?branch=master)](https://travis-ci.org/ktakashi/sagittarius-scheme)
-
+[![CircleCI](https://circleci.com/bb/ktakashi/sagittarius-scheme.svg?style=shield)](https://circleci.com/bb/ktakashi/sagittarius-scheme)
 ## NEWS
 
 - Sagittarius Scheme 0.8.8 has been released (Nov 18, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.8)
