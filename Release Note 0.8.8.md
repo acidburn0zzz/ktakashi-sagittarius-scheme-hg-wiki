@@ -7,6 +7,7 @@ Fixed bugs:
 Improvements:
 
 - SSE detection on FreeBSD is added (Thanks to Ashish SHUKLA)
+- Faster thread creation. (approx. 10 times faster)
 
 New features:
 
