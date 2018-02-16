@@ -1,5 +1,19 @@
 ## Old release notes
 
+### 2017
+
+
+- Sagittarius Scheme 0.8.9 has been released (Dec 23, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.9)
+- Sagittarius Scheme 0.8.8 has been released (Nov 18, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.8)
+- Sagittarius Scheme 0.8.7 has been released (Sep 24, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.7)
+- Sagittarius Scheme 0.8.6 has been released (Aug 21, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.6)
+- Sagittarius Scheme 0.8.5 has been released (Jun 16, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.5)
+- Sagittarius Scheme 0.8.4 has been released (May 19, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.4)
+- Sagittarius Scheme 0.8.3 has been released (Apr 21, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.3)
+- Sagittarius Scheme 0.8.2 has been released (Mar 24, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.2)
+- Sagittarius Scheme 0.8.1 has been released (Feb 18, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.1)
+- Sagittarius Scheme 0.8.0 has been released (Jan 21, 2017) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.8.0)
+
 ### 2016
 
 - Sagittarius Scheme 0.7.11 has been released (Dec 24th, 2016) [Release Notes](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Release%20Note%200.7.11)
