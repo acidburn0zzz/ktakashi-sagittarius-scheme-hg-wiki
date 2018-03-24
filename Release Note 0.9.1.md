@@ -10,3 +10,4 @@ Improvements:
 
 - Creating symbolic link on MSYS2 checks 'MSYS' environment variable
 - Creating symbolic link on Windows uses `SYMBOLIC_LINK_FLAG_ALLOW_UNPRIVILEGED_CREATE` if possible
+- `(archive)` now also sets file timestamps
