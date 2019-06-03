@@ -6,7 +6,6 @@ Fixed bugs:
 - Issue: #256: ÿ can't be printed properly
 - Issue: #257: flexible-vector-delete! raises an error when removing the last element
 - Fixing the build process (retrieving windows time zone)
-- 
 
 New features:
 
